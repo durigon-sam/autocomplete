@@ -1,5 +1,7 @@
 /**
  * An implementation of the AutoCompleteInterface using a DLB Trie.
+ * This is a java project for CS1501 at the University of Pittsburgh.
+ * All methods above the line at 299 were written by me, Sam Durigon.
  */
 
 //these imports were provided on the assignmnet, but are never used. Honestly not sure why they're here
